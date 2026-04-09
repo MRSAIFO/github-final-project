@@ -1,3 +1,4 @@
-bug-fix-revert
-bug-fix-typo
+$ git branch
+  bug-fix-revert
+  bug-fix-typo
 * main
