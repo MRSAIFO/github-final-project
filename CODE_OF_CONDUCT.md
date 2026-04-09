@@ -1,33 +1,20 @@
-# Code of Conduct
-
 ## Our Pledge
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone.
+We pledge to create a respectful environment.
 
 ## Our Standards
-Examples of behavior that contributes to a positive environment include:
-- Being respectful and inclusive
-- Accepting constructive feedback
-- Showing empathy towards others
-
-Examples of unacceptable behavior include:
-- Harassment or discrimination
-- Offensive comments
-- Personal attacks
+Be respectful and inclusive.
 
 ## Enforcement Responsibilities
-Project maintainers are responsible for clarifying and enforcing our standards of acceptable behavior.
+Maintainers enforce rules.
 
 ## Scope
-This Code of Conduct applies within all community spaces and when representing the project in public spaces.
+Applies to all contributors.
 
 ## Enforcement
-Instances of abusive or unacceptable behavior may be reported to the project maintainers.
+Violations may result in action.
 
 ## Enforcement Guidelines
-Maintainers will follow these steps:
-- Warning
-- Temporary ban
-- Permanent ban (if necessary)
+Warnings or bans.
 
 ## Attribution
-This Code of Conduct is adapted from the Contributor Covenant.
+Adapted from Contributor Covenant.
